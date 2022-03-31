@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Weirdo-Nuggets
-- 👀 I’m interested in history, art, a bit of coding and of course MUSIC!
-- 🌱 I’m currently learning CSS and JavaScript (Newbie to the latter 😁)
+- 👀 I’m interested in a lot of things
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on school stuff
-- 📫 How to reach me ...https://www.youtube.com/channel/UCMR03U3Atl6TcVBhNAsvdNQ/videos
+- 📫 How to reach me .. you can't I'm too tall.
 
 <!---
 Weirdo-Nuggets/Weirdo-Nuggets is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
